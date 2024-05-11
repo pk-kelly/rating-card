@@ -1,0 +1,11 @@
+body {
+  @media (max-width: 44em) {
+    .main {
+      width: 70%;
+    }
+
+    .main-thank-you {
+      width: 70%;
+    }
+  }
+}
